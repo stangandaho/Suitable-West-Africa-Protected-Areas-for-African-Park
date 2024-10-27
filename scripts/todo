@@ -1,0 +1,5 @@
+- Specific richness by class and protected area (showing on a map with gradient display)
+- Threatened species index:
+  use icun category with respective count by class for each protected area
+- Calculate phylogenetic diversity by protected area
+- Calculate mean Sorenson index of beta diversity
